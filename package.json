@@ -31,7 +31,7 @@
     "dotenv": "^10.0.0",
     "lodash-es": "^4.17.21",
     "longjohn": "^0.2.12",
-    "luxon": "^1.27.0",
+    "luxon": "^2.5.2",
     "luxon-business-days": "^2.8.3",
     "markdownlint-cli": "^0.29.0",
     "prompts": "^2.4.2",
